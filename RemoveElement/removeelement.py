@@ -4,6 +4,7 @@
 
 #remove方法没有返回值
 #善于使用remove count这两个方法。
+#移除指定值
 class Solution:
 	def removeElement(self, nums, val):
 		n=0
